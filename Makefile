@@ -7,7 +7,7 @@ helloworld : $(objects)
 
 
 install:
-	install -m 777 helloworld /media/fredy/rootfs/home/root/
+	install -m 777 helloworld /home/fredy/desktop/
 
 .PHONY : clean
 clean :
