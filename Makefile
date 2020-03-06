@@ -1,5 +1,4 @@
 
-CC = aarch64-linux-gnu-gcc
 
 objects = main.o
 helloworld : $(objects)
